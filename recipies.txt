@@ -12,3 +12,6 @@ recipies:
 5.1) Healthy Veggie Salad
 5.2) Marinated Bean Salad
 5.3) Mexican Cheese Salad
+
+6.1) Italian Navy Bean Soup with Rosemary
+6.2) Spicy Posole Soup
