@@ -8,4 +8,7 @@ recipies:
 
 
 4.1) Chocolate Chip Cookies
-4.2) White Wine Cookies
+
+5.1) Healthy Veggie Salad
+5.2) Marinated Bean Salad
+5.3) Mexican Cheese Salad
